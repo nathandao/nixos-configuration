@@ -30,7 +30,6 @@
     systool
     tdesktop
     thunderbird
-    virt-manager
     vlc
   ];
 
