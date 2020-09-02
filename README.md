@@ -1,13 +1,13 @@
 The repo contains primarity nixos configurations for my Lenovo X1 Extreme laptop, hope bits and pieces of this config are applicable else where too.
 
-Refactor is still WIP at the moment, so things are still very messy, although`power-managerment` and `vpn`are in pretty decent shape.
+Refactor is still WIP at the moment, so things are still quite messy.
 
-Virtualisations files `./nixos/kvm`(TODO: add sources from where I got those files from), are commented out in`configuration.nix`, after a failed attempt to get PCI passthrough to work for the x1 extreme's nvidia gpu.
+### Overview:
 
-### Overview of the setup:
+- On unstable nixos branch and kernel 5.8. Decided to go with 5.8 for the newly added dual fan support for such thinkpads models. Nothing seems to be borken as far as my daily usage goes, so fingers corssed! On the other hand, it's quite satisfying seeing 2 thinkpad fans being reported in `s-tui` :D
+- Lightdm
+- xfce+xmonad. Note: copy `.xprofile` and `.xmonad` from `dotfiles` folder to your home directory to have the session loaded correctly and have xmonad plays well with other xfce packages.
+- Bumblebee to spawn up the nvidia card when needed. Since the HDMI chip is mounted to nvidia, `intel-virtual-output` is used to connect to external monitor.
+- Quite agressive power managerment with undervolt, tpl and a bunch of kernel params. Check `nixos/power-manager.nix` for more details. Note: remember to adjust the undervolt settings to suit your CPU.
 
-- Currently using unstable nixos branch and kernel 5.8. Needed to push for 5.8 for the newly added dual fan support for such thinkpads models. Nothing seems to be borken so far, so fingers corssed! On the other hand, it's quite satisfying seeing 2 thinkpad fans being reported in `s-tui` :D
-- Lightdm with a custom gtk theme.
-- xfce+xmonad Will need to copy `.xprofile` and `.xmonad` from `dotfiles` folder to your home directory to make sure the session loads correctly. This basically stops all xfce apps from starting by default, and only starts `xfce4-panel` through xmonad. TODO: export my current xfce config and themes.
-- Bumblebee to spawn up the nvidia card when needed. By default, nvidia should stays in deep sleep to preserve power especially in battery mode. Since the HDMI chip is mounted to nvidia, `intel-virtual-output` can be used for external monitor.
-- Quite agressive power managerment with undervolt, tpl and a bunch of kernel params. Check `nixos/power-manager.nix` for more details. I have been able to hit 7 - 9 hour mark with my normal work load (1 or 2 nodejs process, bunch of docker containes, emacs and some firefox tabs), which I can't complain much about, considering mine also comes with a 4k panel :D
+I have been able to hit 7 - 9 hour mark with my normal work load (1 or 2 nodejs process, bunch of docker containes, emacs and some firefox tabs), which I can't complain much about, considering mine also comes with a 4k panel :D
