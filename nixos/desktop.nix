@@ -1,5 +1,14 @@
 { lib, config, pkgs,... }:
 {
+  environment.systemPackages = with pkgs; [
+    lxappearance
+    xfce.xfce4-cpufreq-plugin
+    xfce.xfce4-xkb-plugin
+    xorg.xf86videointel
+    xorg.xmodmap
+    xscreensaver
+  ];
+
   # Adjust backlight
   programs.light.enable = true;
   services.actkbd = {

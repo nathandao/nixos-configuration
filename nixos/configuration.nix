@@ -67,7 +67,6 @@
     git
     home-manager
     htop
-    lxappearance
     s-tui
     undervolt
     vim
@@ -75,11 +74,6 @@
     wget
     xarchiver
     xclip
-    xfce.xfce4-cpufreq-plugin
-    xfce.xfce4-xkb-plugin
-    xorg.xf86videointel
-    xorg.xmodmap
-    xscreensaver
   ];
 
   services.emacs.enable = true;
@@ -153,14 +147,11 @@
   # Enable touchpad support.
   services.xserver.libinput.enable = true;
 
-  # Define a user account. Don't forget to set a password with ‘passwd’.
   users.mutableUsers = true;
-
   users.groups.ndao = {
     name = "ndao";
     gid = 1000;
   };
-
   users.users.ndao = {
     group = "ndao";
     isNormalUser = true;
