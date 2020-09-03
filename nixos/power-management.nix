@@ -47,7 +47,6 @@
       "STOP_CHARGE_THRESH_BAT0" = 85;
       # WiFi power saving mode: on=enable, off=disable; not supported by all adapters.
       # Default: <none>
-      "WIFI_PWR_ON_AC" = "off";
       "WIFI_PWR_ON_BAT" = "on";
       # Disable wake on LAN: Y/N.
       # Default: N
@@ -59,15 +58,14 @@
       "INTEL_GPU_MAX_FREQ_ON_BAT" = 400;
       "INTEL_GPU_BOOST_FREQ_ON_AC" = 1100;
       "INTEL_GPU_BOOST_FREQ_ON_BAT" = 500;
+
       # CPU
       "CPU_SCALING_GOVERNOR_ON_AC" = "schedutil";
       "CPU_SCALING_GOVERNOR_ON_BAT" = "schedutil";
-
       "CPU_SCALING_MIN_FREQ_ON_AC" = 800000;
       "CPU_SCALING_MAX_FREQ_ON_AC" = 2200000;
       "CPU_SCALING_MIN_FREQ_ON_BAT" = 800000;
       "CPU_SCALING_MAX_FREQ_ON_BAT" = 1500000;
-
       "CPU_MIN_PERF_ON_AC" = 0;
       "CPU_MAX_PERF_ON_AC" = 80;
       "CPU_MIN_PERF_ON_BAT" = 0;
@@ -78,7 +76,7 @@
       "CPU_ENERGY_PERF_POLICY_ON_BAT" = "power";
 
       # CPU_HWP_ON_AC=default
-      "CPU_HWP_ON_AC" = "power";
+      "CPU_HWP_ON_AC" = "default";
       "CPU_HWP_ON_BAT" = "power";
 
       "CPU_BOOST_ON_AC" = 0;
@@ -110,7 +108,7 @@
       #   default(*), performance, powersave.
       # (*) keeps BIOS ASPM defaults (recommended)
       # Default: <none>
-      "PCIE_ASPM_ON_AC" = "performance";
+      # "PCIE_ASPM_ON_AC" = "performance";
       "PCIE_ASPM_ON_BAT" = "powersave";
 
       # AHCI link power management (ALPM) for disk devices:
@@ -121,27 +119,11 @@
       "SATA_LINKPWR_ON_AC" = "med_power_with_dipm max_performance";
       "SATA_LINKPWR_ON_BAT" = "min_power med_power_with_dipm medium_power";
 
-      # Runtime Power Management for AHCI host and disks devices:
-      #   on=disable, auto=enable.
-      # EXPERIMENTAL ** WARNING: auto may cause system lockups/data loss.
-      # Default: <none>
-      "AHCI_RUNTIME_PM_ON_AC" = "on";
-      "AHCI_RUNTIME_PM_ON_BAT" = "auto";
-
-      # Seconds of inactivity before disk is suspended.
-      # Note: effective only when AHCI_RUNTIME_PM_ON_AC/BAT is activated.
-      # Default: 15
-      "AHCI_RUNTIME_PM_TIMEOUT" = 15;
-
       "DEVICES_TO_DISABLE_ON_STARTUP" = "bluetooth";
 
       # USB
       "USB_AUTOSUSPEND_ON_AC" = 0;
       "USB_AUTOSUSPEND_ON_BAT" = 1;
-      # "USB_BLACKLIST_BTUSB" = 1;
-      # "USB_BLACKLIST_PHONE" = 1;
-      # "USB_BLACKLIST_PRINTER" = 1;
-      # "USB_AUTOSUSPEND_DISABLE_ON_SHUTDOWN" = 1;
 
       # Battery feature drivers: 0=disable, 1=enable
       # Default: 1 (all)
@@ -198,18 +180,10 @@
       # cTDP: 0
 
       [UNDERVOLT]
-      # CPU core voltage offset (mV)
       CORE: -150
-      # Integrated GPU voltage offset (mV)
       GPU: -150
-      # CPU cache voltage offset (mV)
       CACHE: -150
-      # System Agent voltage offset (mV)
       UNCORE: -150
-      # Analog I/O voltage offset (mV)
-      ANALOGIO: 0
-      # Digital I/O voltage offset (mV)
-      DIGITALIO: 0
     '';
   };
 }
