@@ -101,14 +101,14 @@
 
       # Runtime Power Management for PCI(e) bus devices: on=disable, auto=enable.
       # Default: <none>
-      # "RUNTIME_PM_ON_AC" = "on";
+      "RUNTIME_PM_ON_AC" = "on";
       "RUNTIME_PM_ON_BAT" = "auto";
 
       # PCI Express Active State Power Management (PCIe ASPM):
       #   default(*), performance, powersave.
       # (*) keeps BIOS ASPM defaults (recommended)
       # Default: <none>
-      # "PCIE_ASPM_ON_AC" = "performance";
+      "PCIE_ASPM_ON_AC" = "performance";
       "PCIE_ASPM_ON_BAT" = "powersave";
 
       # AHCI link power management (ALPM) for disk devices:
