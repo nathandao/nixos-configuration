@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="48"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="2"/>
+        <value type="int" value="19"/>
+        <value type="int" value="4"/>
+        <value type="int" value="3"/>
+        <value type="int" value="15"/>
+        <value type="int" value="7"/>
+        <value type="int" value="10"/>
+        <value type="int" value="6"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="5"/>
+      </property>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="output-name" type="string" value="Automatic"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="mode" type="uint" value="0"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="actions">
+      <property name="items" type="array">
+        <value type="string" value="+lock-screen"/>
+        <value type="string" value="+switch-user"/>
+        <value type="string" value="+separator"/>
+        <value type="string" value="+suspend"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-hybrid-sleep"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+shutdown"/>
+        <value type="string" value="+restart"/>
+        <value type="string" value="+separator"/>
+        <value type="string" value="+logout"/>
+        <value type="string" value="-logout-dialog"/>
+      </property>
+      <property name="appearance" type="uint" value="1"/>
+      <property name="invert-orientation" type="bool" value="false"/>
+    </property>
+    <property name="plugin-3" type="string" value="tasklist">
+      <property name="show-labels" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="true"/>
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="grouping" type="uint" value="0"/>
+      <property name="sort-order" type="uint" value="1"/>
+      <property name="include-all-workspaces" type="bool" value="false"/>
+      <property name="include-all-monitors" type="bool" value="true"/>
+      <property name="show-wireframes" type="bool" value="true"/>
+    </property>
+    <property name="plugin-15" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="true"/>
+      <property name="workspace-scrolling" type="bool" value="false"/>
+    </property>
+    <property name="plugin-5" type="string" value="clock">
+      <property name="mode" type="uint" value="4"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="bluetooth disabled"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="slack"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value=".blueman-tray-wrapped"/>
+        <value type="string" value="bluetooth enabled"/>
+        <value type="string" value="telegramdesktop"/>
+      </property>
+      <property name="names-ordered" type="array">
+        <value type="string" value="virt-manager"/>
+        <value type="string" value=".variety-wrapped"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value=".solaar-wrapped"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth disabled"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth active &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="bluetooth enabled &lt;b&gt;1 active connection&lt;/b&gt;"/>
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="cadence"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="slack"/>
+        <value type="string" value="bluetooth enabled"/>
+        <value type="string" value=".blueman-tray-wrapped"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="size-max" type="uint" value="32"/>
+      <property name="show-frame" type="bool" value="false"/>
+    </property>
+    <property name="plugin-7" type="string" value="screenshooter"/>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chromium.instance10890;chromium.instance11924;chromium.instance12482;chromium.instance12884;chromium.instance12962;chromium.instance13072;chromium.instance13228;chromium.instance13612;chromium.instance16929;chromium.instance18337;chromium.instance18592;chromium.instance18720;chromium.instance18768;chromium.instance18860;chromium.instance1986;chromium.instance2071;chromium.instance20800;chromium.instance2157;chromium.instance2274;chromium.instance2294;chromium.instance2305;chromium.instance23213;chromium.instance2346;chromium.instance2384;chromium.instance2606;chromium.instance2695;chromium.instance2706;chromium.instance27898;chromium.instance29287;chromium.instance29488;chromium.instance29564;chromium.instance3097;chromium.instance31199;chromium.instance31534;chromium.instance3473;chromium.instance3662;chromium.instance3922;chromium.instance4275;chromium.instance4770;chromium.instance5553;chromium.instance5667;chromium.instance5971;chromium.instance7215;chromium.instance7298;chromium.instance7576;chromium.instance8466;chromium.instance8722;chromium.instance9793;chromium.instance9968;spotify"/>
+    </property>
+    <property name="plugin-9" type="string" value="notification-plugin"/>
+    <property name="plugin-19" type="string" value="windowmenu"/>
+    <property name="plugin-10" type="string" value="cpufreq"/>
+  </property>
+</channel>
