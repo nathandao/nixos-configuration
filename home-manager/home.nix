@@ -34,6 +34,6 @@
   ];
 
   services.random-background.enable = true;
-  services.random-background.imageDirectory = "/home/ndao/Pictures/ca";
-  services.random-background.interval = "20min";
+  services.random-background.imageDirectory = "/home/ndao/.config/backgrounds";
+  services.random-background.interval = "10min";
 }
