@@ -38,7 +38,7 @@
   services.upower.enable = true;
 
   services.tlp = {
-    enable= true;
+    enable = true;
     settings = {
       "MAX_LOST_WORK_SECS_ON_BAT" = 15;
       "RUNTIME_PM_BLACKLIST" = "01:00:0 01:00:1";
