@@ -33,6 +33,8 @@
     vlc
   ];
 
+  manual.manpages.enable = false;
+
   services.random-background.enable = true;
   services.random-background.imageDirectory = "/home/ndao/.config/backgrounds";
   services.random-background.interval = "10min";
