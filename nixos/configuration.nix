@@ -9,7 +9,7 @@
     [ # Include the results of the hardware scan.
       ./hardware-configuration.nix
       ./power-management.nix
-      # ./vpn/openvpn.nix
+      ./vpn/openvpn.nix
       ./desktop.nix
       ./bumblebee.nix
       # ./virtualisation/virtualisation.nix
@@ -67,6 +67,7 @@
     git
     home-manager
     htop
+    openresolv
     s-tui
     undervolt
     vim
