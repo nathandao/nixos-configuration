@@ -18,11 +18,11 @@ static const gchar *style =
 "}"
 
 "label {"
-    "color: black;"
+    "color: white;"
     "margin-right: 25px;"
 "}"
 "entry {"
-    "color: black;"
+    "color: white;"
     "caret-color: transparent;"
     "background-color: none;"
     "caret-color: none;"
@@ -30,7 +30,7 @@ static const gchar *style =
     "box-shadow: none;"
 "}"
 "#message_label {"
-    "color: black;"
+    "color: white;"
 "}";
 
 /* GTK UI XML*/
