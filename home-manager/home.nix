@@ -6,13 +6,13 @@
 
   home.packages = with pkgs; [
     arduino
+    arduino-cli
     chromium
     cypress
     firefox-bin
     gitAndTools.git-extras
     gnupg
     gparted
-    keybase
     keybase-gui
     lastpass-cli
     nix-index
@@ -28,6 +28,7 @@
     spotify
     stress-ng
     systool
+    teams
     tdesktop
     thunderbird
     vlc
@@ -37,5 +38,5 @@
 
   services.random-background.enable = true;
   services.random-background.imageDirectory = "/home/ndao/.config/backgrounds";
-  services.random-background.interval = "10min";
+  services.random-background.interval = "5min";
 }

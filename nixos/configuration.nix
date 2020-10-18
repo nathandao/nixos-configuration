@@ -42,10 +42,8 @@
     "pcie_port_pm=off"
 
     # Enabled Intel gvt
-    "i915.enable_gvt=Y"
+    # "i915.enable_gvt=Y"
   ];
-
-  boot.blacklistedKernelModules = ["nvidia" "nouveau" "nvidiafb"];
 
   virtualisation.docker.enable = true;
   virtualisation.docker.enableOnBoot = false;
@@ -79,6 +77,9 @@
 
   services.emacs.enable = true;
   services.emacs.defaultEditor = true;
+
+  services.keybase.enable = true;
+  services.kbfs.enable = true;
 
   fonts.fonts = with pkgs; [tlwg];
   programs.ssh.startAgent = true;
@@ -131,6 +132,7 @@
   services.xserver.autorun = true;
   services.xserver.dpi = 216;
   services.xserver.exportConfiguration = true;
+
   services.xserver.videoDrivers = [ "intel" ];
 
   services.xserver.monitorSection = ''
@@ -149,10 +151,10 @@
   services.xserver.libinput.enable = true;
 
   users.mutableUsers = true;
-  users.groups.ndao = {
-    name = "ndao";
-    gid = 1000;
-  };
+  # users.groups.ndao = {
+  #   name = "ndao";
+  #   gid = 1000;
+  # };
   users.users.ndao = {
     group = "ndao";
     isNormalUser = true;

@@ -1,10 +1,16 @@
 { config, lib, pkgs, ... }:
 
 {
+  boot.kernelParams = [
+    "bbswitch.load_state=0"
+    "bbswitch.unload_state=1"
+  ];
   hardware.bumblebee.enable = true;
   hardware.bumblebee.connectDisplay = true;
   hardware.bumblebee.driver = "nvidia";
   hardware.bumblebee.pmMethod = "auto";
+
+  boot.blacklistedKernelModules = [ "nouveau" "nvidia" ];
 
   nixpkgs.overlays = [
     (self: super: {
@@ -29,4 +35,5 @@
     Option "DRI" "False"
     Option "TearFree" "true"
   '';
+  # Option "DRI" "False"
 }

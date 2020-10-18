@@ -20,11 +20,11 @@
 
     "iwlwifi.power_save=Y"
     "iwlwifi.power_level=5"
-    "iwlwifi.11n_disable=1"
-    "iwlwifi.uapsd_disable=1"
-    "iwlwifi.disable_11ac=Y"
-    "iwlwifi.disable_11ax=Y"
-    "iwlwifi.amsdu_size=4"
+    # "iwlwifi.11n_disable=1"
+    # "iwlwifi.uapsd_disable=1"
+    # "iwlwifi.disable_11ac=Y"
+    # "iwlwifi.disable_11ax=Y"
+    # "iwlwifi.amsdu_size=4"
 
     "i915.enable_dc=4"
     "i915.enable_fbc=1"
@@ -65,11 +65,11 @@
       "CPU_SCALING_MIN_FREQ_ON_AC" = 800000;
       "CPU_SCALING_MAX_FREQ_ON_AC" = 2200000;
       "CPU_SCALING_MIN_FREQ_ON_BAT" = 800000;
-      "CPU_SCALING_MAX_FREQ_ON_BAT" = 1500000;
+      "CPU_SCALING_MAX_FREQ_ON_BAT" = 1400000;
       "CPU_MIN_PERF_ON_AC" = 0;
       "CPU_MAX_PERF_ON_AC" = 80;
       "CPU_MIN_PERF_ON_BAT" = 0;
-      "CPU_MAX_PERF_ON_BAT" = 20;
+      "CPU_MAX_PERF_ON_BAT" = 50;
 
       # CPU_ENERGY_PERF_POLICY_ON_AC=default
       "CPU_ENERGY_PERF_POLICY_ON_AC" = "power";
@@ -148,7 +148,7 @@
       Update_Rate_s: 30
       # Max package power for time window #1
       # PL1_Tdp_W: 35
-      PL1_Tdp_W: 10
+      PL1_Tdp_W: 15
       # Time window #1 duration
       PL1_Duration_s: 28
       # Max package power for time window #2
