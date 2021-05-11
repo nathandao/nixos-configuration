@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg3810"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="unknown.svg">
+  <defs
+     id="defs3812">
+    <linearGradient
+       id="linearGradient3977">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop3979" />
+      <stop
+         id="stop3981"
+         style="stop-color:#ffffff;stop-opacity:0.23529412;"
+         offset="0.03626217" />
+      <stop
+         offset="0.95056331"
+         style="stop-color:#ffffff;stop-opacity:0.15686275;"
+         id="stop3983" />
+      <stop
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.39215687;"
+         id="stop3985" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3600">
+      <stop
+         id="stop3602"
+         style="stop-color:#f4f4f4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3604"
+         style="stop-color:#dbdbdb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3104">
+      <stop
+         id="stop3106"
+         style="stop-color:#a0a0a0;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop3108"
+         style="stop-color:#bebebe;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="57.25"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4122" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3815">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 8.5439351,10.978968 C 8.5065291,9.6181399 8.8056721,8.2970715 10.067161,7.3613096 11.399619,6.3030194 12.682872,4.9789555 12.547242,3.4181843 12.517654,1.9129614 10.796832,0.73345533 8.9427711,0.56386383 6.8572606,0.26941103 4.3338102,0.99755733 3.6349693,2.6574822 3.2805335,3.4648133 3.6092154,4.9132589 4.7986932,4.9132589 5.494423,4.9132589 5.8139758,4.4552206 5.8664737,4.036223 5.9061882,3.7191962 5.7784836,3.4360936 5.70307,3.1742272 5.6171392,2.8758471 5.9839815,2.2975555 6.3835327,2.0619366 6.7174012,1.8650488 7.0667141,1.7990284 7.1182046,1.7864165 8.3172251,1.4927368 9.5124761,2.1414357 10.011152,2.9309807 10.509833,3.7205254 9.9609318,4.9181129 9.1717541,6.0827216 8.3825681,7.2473287 7.535631,8.5700862 7.5390142,9.9750696 c 0,0.5348794 -0.04676,0.7165954 -0.013552,0.9329944 0.026557,0.172904 0.5882755,0.152008 1.0184579,0.07088 z m -0.5471943,1.831607 c -1.1464533,-0.0634 -1.9399576,1.261144 -1.2512247,2.105087 0.6150704,0.931793 2.339584,0.701763 2.635166,-0.353399 0.307297,-0.82051 -0.432221,-1.765387 -1.3839413,-1.751688 l 0,0 z"
+       id="path9053"
+       style="font-style:normal;font-weight:bold;font-size:72px;font-family:'Standard Symbols L';opacity:1;fill:#353945;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

@@ -1,0 +1,157 @@
+gtk-toolbar-style = GTK_TOOLBAR_ICONS
+
+gtk-icon-sizes = "
+	mini-commander-icon=32,32:
+	print-manager=32,32:
+	panel-button=32,32:
+	gtk-dnd=32,32:
+	gtk-menu=16,16:
+	panel-menu=22,22:
+	gtk-large-toolbar=24,24:
+	gtk-small-toolbar=16,16:
+	gtk-button=16,16:
+	gtk-dialog=32,32"
+
+
+style "standard-default"
+{
+	GtkWidget::interior_focus = 1
+
+	GtkComboBox::appears-as-list = 0
+
+	GtkNotebook::tab-overlap = 2
+
+	GtkButton::default_border = { 1, 1, 1, 1 }
+	GtkButton::default_outside_border = { 0, 0, 0, 0 }
+	GtkButton::child_displacement_x = 0
+	GtkButton::child_displacement_y = 0
+
+	GtkOptionMenu::indicator_size = { 9, 5 }
+	GtkOptionMenu::indicator_spacing = { 7, 5, 2, 2 }
+
+	GtkMenu::horizontal-padding = 1
+	GtkMenu::vertical-padding = 1
+	GtkMenu::horizontal-offset = -6
+
+	GtkScrolledWindow::scrollbar-spacing = 0
+	GtkScrolledWindow::scrollbars-within-bevel = 1
+
+
+	bg[NORMAL] = "#cccccc" # 0.8 white | main parts of the windows, i.e., window frames; selected tabs; non-moused-over unselected (i.e., unpressed) workable buttons; non-moused-over text-area next to check-boxes; non-moused-over scrollbar handles; workable scrollbar buttons, i.e., scrollbar ends when the scrollbar handles are not abutting them
+	fg[NORMAL] = "#000000" # 0.0 white | text within 'bg[NORMAL]'
+	
+	bg[ACTIVE] = "#b9b9b9" # 0.725 white | unselected tabs; non-moused-over selected (i.e., pressed) workable buttons; scrollbar troughs
+	fg[ACTIVE] = "#000000" # 0.0 white | text within 'bg[ACTIVE]'; dotted lines in or around focused items (e.g., buttons; non-moused-over directory items in the KDE Dolphin file-manager)
+
+	bg[INSENSITIVE] = "#acacac" # 0.675 white | {unfocused title-bars; unfocused window borders are based upon this color; [note: since xfwm4 4.14, these functions have been moved to the '../xfwm4/themerc' file]} unworkable buttons; unworkable scrollbar buttons, i.e., scrollbar ends when the scrollbar handles are abutting them
+	fg[INSENSITIVE] = "#656565" # 0.4 white | text within 'bg[INSENSITIVE]'
+
+	bg[PRELIGHT] = "#dfdfdf" # 0.875 white | moused-over workable buttons; moused-over text-area next to workable check-boxes
+	fg[PRELIGHT] = "#000000" # 0.0 white | text within 'bg[PRELIGHT]'
+
+	bg[SELECTED] = "#4a7fb4" # 7/24 R, 1/2 G, 17/24 B | {focused title-bars; focused window borders are based upon this color; [note: since xfwm4 4.14, these functions have been moved to the '../xfwm4/themerc' file]} some progressbars in GTK+ 2 programs; progressbars in Qt 4/5 programs; notices-bar in Viewnior
+	fg[SELECTED] = "#ffffff" # 1.0 white | text within 'bg[SELECTED]'
+
+
+	base[NORMAL] = "#f9f9f9" # 0.975 white | fields that text can be written into, or where there are selectable items (usually white, as if to suggest paper), i.e., the main fields; moused-over side-panel items within the KDE Dolphin file-manager
+	text[NORMAL] = "#000000" # 0.0 white | text within 'base[NORMAL]' (usually black, as if to suggest printed letters on paper)
+
+	base[ACTIVE] = "#999999" # 0.6 white | selected items within unfocused fields; color surrounding selected text within unfocused 'bg[NORMAL]'
+	text[ACTIVE] = "#d9d9d9" # 0.85 white | text within 'base[ACTIVE]'; text of selected directory items within an unfocused window of the KDE Dolphin file-manager; file-size information of selected directory items within the KDE Dolphin file-manager (this is inconsistent behavior)
+
+	base[INSENSITIVE] = "#bfbfbf" # 0.75 white | disabled fields that text can be written into when enabled; unworkable check-boxes; lighter alternating rows of disabled fields of selectable lists (the darker alternating rows are based upon this color)
+	text[INSENSITIVE] = "#7f7f7f" # 0.5 white | text within 'base[INSENSITIVE]'; disabled entry and combobox text; unworkable checks
+
+	base[PRELIGHT] = "#447fba" # 13/48 R, 1/2 G, 35/48 B | moused-over workable check-boxes; area around some (but not all) moused-over hyperlinks
+	# text[PRELIGHT] = "#ffff00" # 1/1 R, 1/1 G, 0/1 B | checks within 'base[PRELIGHT]'; text of moused-over 'GtkComboBox::appears-as-list = 0'
+
+	base[SELECTED] = "#4f7faf" # 5/16 R, 1/2 G, 11/16 B | selected items within focused fields; color surrounding selected text within focused 'bg[NORMAL]'
+	text[SELECTED] = "#d9d9d9" # 0.85 white | text within 'base[SELECTED]'
+
+
+	# engine "redmond95" {}
+}
+class "GtkWidget" style "standard-default"
+
+
+style "standard-option-menu"
+{
+	GtkOptionMenu::indicator_width = 7
+	GtkOptionMenu::indicator_left_spacing = 6
+	GtkOptionMenu::indicator_right_spacing = 4
+}
+class "GtkOptionMenu" style "standard-option-menu"
+
+
+style "standard-scrollbar"
+{
+	GtkRange::trough_border = 0
+	GtkRange::slider_width = 16
+	GtkRange::stepper_size = 16
+	GtkRange::stepper_spacing = 0
+}
+class "GtkScrollbar" style "standard-scrollbar"
+
+
+style "standard-scales"
+{
+	GtkRange::slider-width = 19
+	GtkScale::slider-length = 13
+}
+class "*Scale*" style "standard-scales"
+
+
+style "standard-menu"
+{
+	bg[PRELIGHT] = "#547faa" # 1/3 R, 1/2 G, 2/3 B | moused-over menu item
+	fg[PRELIGHT] = "#ffffff" # 1.0 white | text within 'bg[PRELIGHT]'
+}
+widget_class "*MenuItem*" style "standard-menu"
+
+
+style "standard-menubar-item"
+{
+	bg[PRELIGHT] = "#5a7fa4" # 17/48 R, 1/2 G, 31/48 B | selected menubar item
+	fg[PRELIGHT] = "#ffffff" # 1.0 white | text within 'bg[PRELIGHT]'
+}
+class "*MenuBar.*MenuItem*" style "standard-menubar-item"
+widget_class "*MenuBar.*MenuItem*" style "standard-menubar-item"
+
+
+style "standard-list"
+{
+	bg[NORMAL] = "#e5e5e5" # 0.9 white | the original 'Redmond/gtk-2.0/gtkrc' had '{ 0.9, 0.9, 0.9 }'
+	bg[PRELIGHT] = "#000000" # 0.0 white | the original 'Redmond/gtk-2.0/gtkrc' had '{ 0.0, 0.0, 0.0 }'
+}
+class "GtkList" style "standard-list"
+
+
+style "standard-progressbar"
+{
+	bg[PRELIGHT] = "#3fbf3f" # 1/4 R, 3/4 G, 1/4 B | most progressbars in GTK+ 2 programs
+	fg[PRELIGHT] = "#ffffff" # 1.0 white | text within 'bg[PRELIGHT]'
+} 
+class "GtkProgressBar" style "standard-progressbar"
+
+
+style "standard-entry"
+{
+	bg[SELECTED] = "#00ff7f" # 0/1 R, 1/1 G, 1/2 B | entry search progressbar
+	fg[SELECTED] = "#000000" # 0.0 white | text within 'bg[SELECTED]'
+}
+class "GtkEntry" style "standard-entry"
+
+
+style "gnome-color-chooser-tooltips"
+{
+	bg[NORMAL] = "#ffff7f" # 1/1 R, 1/1 G, 1/2 B | tooltip boxes
+	fg[NORMAL] = "#000000" # 0.0 white | text within 'bg[NORMAL]'
+}
+widget "gtk-tooltip*" style "gnome-color-chooser-tooltips"
+
+
+style "bg-fill"
+{
+	bg[NORMAL] = "#000000" # 0.0 white | Viewnior background, i.e., the area around an image
+}
+class "UniImageView" style "bg-fill"

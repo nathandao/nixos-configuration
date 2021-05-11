@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg8472"
+   inkscape:version="0.91 r"
+   sodipodi:docname="color-gradient.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview4168"
+     showgrid="false"
+     inkscape:zoom="38.166667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8474">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4149">
+      <stop
+         style="stop-color:#353945;stop-opacity:1;"
+         offset="0"
+         id="stop4151" />
+      <stop
+         style="stop-color:#353945;stop-opacity:0;"
+         offset="1"
+         id="stop4153" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8039">
+      <stop
+         id="stop8041"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop8043"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="10.120466"
+       cy="439.65573"
+       r="3.0052037"
+       fx="10.120466"
+       fy="439.65573"
+       id="radialGradient10171"
+       xlink:href="#linearGradient8039"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.4779412,0,229.52615)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4149"
+       id="linearGradient4155"
+       x1="4.0043669"
+       y1="18.061136"
+       x2="11.837722"
+       y2="10.279476"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1111148,0,0,1.1111148,-0.22222959,-2.2222905)" />
+  </defs>
+  <metadata
+     id="metadata8477">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:date>2006-05-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>segment</rdf:li>
+            <rdf:li>line</rdf:li>
+            <rdf:li>straight</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,2)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4155);fill-opacity:1;stroke:none;stroke-width:0.78793442;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4147"
+       width="16.127668"
+       height="15.791237"
+       x="4.1044149"
+       y="2.1043541" />
+    <path
+       d="M 4.83573,17.164206 19.16516,2.835628"
+       inkscape:connector-curvature="0"
+       id="path7843"
+       style="fill:none;fill-rule:evenodd;stroke:#ff7100;stroke-width:3.30669308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="matrix(1.1111148,0,0,1.1111148,-371.33457,-467.77939)"
+       id="g7849"
+       style="fill:#353945;fill-opacity:1;stroke:#353945;stroke-opacity:1">
+      <path
+         d="m 349.5,421.50001 4,0 0,3.99994 -4,0 0,-3.99994 z"
+         inkscape:connector-curvature="0"
+         id="path7837"
+         style="fill:#353945;fill-opacity:1;stroke:#353945;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.1111148,0,0,1.1111148,-371.33457,-467.77939)"
+       id="g7845"
+       style="fill:#353945;fill-opacity:1;stroke:#353945;stroke-opacity:1">
+      <path
+         d="m 336.5,434.50001 4,0 0,3.99994 -4,0 0,-3.99994 z"
+         inkscape:connector-curvature="0"
+         id="path7831"
+         style="fill:#353945;fill-opacity:1;stroke:#353945;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg7903"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r"
+   version="1.0"
+   sodipodi:docname="node-curve.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/andreas/project/inkscape/22x22/actions/node-curve.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:modified="true">
+  <defs
+     id="defs7905" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="-8.2350972"
+     inkscape:cy="12.386224"
+     inkscape:current-layer="node_curve"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     width="22px"
+     height="22px"
+     inkscape:window-width="1473"
+     inkscape:window-height="710"
+     inkscape:window-x="65"
+     inkscape:window-y="72"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7908">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="node_curve"
+       transform="matrix(1,0,0,1.005236,19.124901,-412.00671)">
+      <g
+         id="g19944"
+         transform="matrix(0,1.242086,-1.235753,0,502.4343,214.853)">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path19946"
+           d="M 161.03293,410.03293 C 161.03293,415.28367 163.63471,418 169,418"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#353945;stroke-width:3.22021127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g19047"
+         transform="translate(5.875102,1.740965)"
+         style="fill:#ededed;fill-opacity:1">
+        <path
+           id="path19049"
+           d="M -11.500002,409.61195 L -4.5000007,409.61195 L -4.5000007,416.57544 L -11.500002,416.57544 L -11.500002,409.61195 z "
+           style="fill:#ededed;fill-opacity:1;stroke:#353945;stroke-width:0.99739248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+      <g
+         id="g19053"
+         transform="translate(-6.124899,13.67841)"
+         style="stroke:#353945;stroke-opacity:1;fill:#ededed;fill-opacity:1">
+        <path
+           id="path19055"
+           d="M -11.500002,409.61195 L -4.5000007,409.61195 L -4.5000007,416.57544 L -11.500002,416.57544 L -11.500002,409.61195 z "
+           style="fill:#ededed;fill-opacity:1;stroke:#353945;stroke-width:0.99739248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

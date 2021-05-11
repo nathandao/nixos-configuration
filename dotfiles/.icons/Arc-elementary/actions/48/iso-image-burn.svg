@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   id="svg7384"
+   version="1.1"
+   width="48"
+   inkscape:version="0.91 r"
+   sodipodi:docname="iso-image-burn.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1546"
+     inkscape:window-height="980"
+     id="namedview19"
+     showgrid="true"
+     inkscape:zoom="17.5"
+     inkscape:cx="26.045433"
+     inkscape:cy="24"
+     inkscape:current-layer="svg7384"
+     inkscape:window-x="289"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4202" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-7"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-6"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
+  <g
+     id="layer9"
+     label="status"
+     style="display:inline"
+     transform="matrix(2.9980919,0,0,2.9980919,-1298.1591,755.53444)" />
+  <g
+     id="layer10"
+     style="display:inline;fill:#353945;fill-opacity:1"
+     transform="matrix(2.9980919,0,0,2.9980919,-1298.1591,755.53444)">
+    <path
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#353945;fill-opacity:1;stroke:none;stroke-width:5.61250019;marker:none;enable-background:accumulate"
+       d="M 23.966797 3 C 12.447198 3 3 12.447228 3 23.966797 C 3 35.486365 12.447198 45 23.966797 45 C 25.298128 45 26.601027 44.867557 27.867188 44.625 C 27.848648 44.627119 27.831058 44.630721 27.8125 44.632812 C 27.8125 44.632813 28.410695 44.333918 28.634766 44.035156 C 33.110306 38.794062 33.204745 33.136599 32.246094 27.572266 C 30.874378 30.775842 27.716669 32.980469 23.966797 32.980469 C 18.928354 32.980469 15.019531 29.00521 15.019531 23.966797 C 15.019531 18.928384 18.928354 15.019531 23.966797 15.019531 C 26.374266 15.019531 28.53226 15.918633 30.136719 17.400391 C 29.478119 13.067086 29.708645 8.8983469 32.746094 4.9609375 C 30.064256 3.7155385 27.094704 3 23.966797 3 z M 36.78125 7.4160156 C 37.108534 11.253338 38.897313 15.051426 40.361328 18.640625 C 42.199819 23.105529 44.13733 27.275118 43.521484 31.642578 C 44.471484 29.258123 45 26.66886 45 23.966797 C 45 17.254647 41.75603 11.262038 36.78125 7.4160156 z "
+       transform="matrix(0.33354548,0,0,0.33354548,432.9951,-252.0051)"
+       id="path39797" />
+    <path
+       d="m 441.00524,-245.9942 c -1.09865,0 -2.01317,0.89789 -2.01317,1.99654 0,1.09864 0.91453,1.99653 2.01317,1.99653 1.09865,0 1.99654,-0.89789 1.99654,-1.99653 0,-1.09865 -0.89789,-1.99654 -1.99654,-1.99654 z"
+       id="path40342"
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#353945;fill-opacity:1;stroke:none;stroke-width:1.87825239;marker:none;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="layer13"
+     style="display:inline"
+     transform="matrix(2.9980919,0,0,2.9980919,-1298.1591,755.53444)" />
+  <g
+     id="layer14"
+     transform="matrix(2.9980919,0,0,2.9980919,-1298.1591,755.53444)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="matrix(2.9980919,0,0,2.9980919,-1298.1591,755.53444)" />
+  <g
+     id="g71291"
+     style="display:inline"
+     transform="matrix(2.9980919,0,0,2.9980919,-1298.1591,755.53444)" />
+  <g
+     id="layer12"
+     style="display:inline"
+     transform="matrix(2.9980919,0,0,2.9980919,-1298.1591,755.53444)" />
+  <path
+     inkscape:connector-curvature="0"
+     class="st0"
+     d="M 39.169606,18.774467 C 37.311991,13.216642 34.795226,7.146917 37.311991,1.223446 35.933763,1.9547389 34.961093,3.3373906 33.762632,5.0193637 29.747788,10.723446 31.231966,16.539433 32.490348,23.047936 c 1.318308,6.80102 3.311206,12.824828 -1.242945,19.333333 -0.179768,0.292517 -2.144867,1.842177 -2.144867,1.842177 4.254536,-0.585034 9.224126,-1.867007 12.040508,-6.766668 1.339684,-2.320548 1.557349,-4.250785 1.628099,-6.427287 0.125455,-3.859401 -2.260503,-8.280476 -3.601537,-12.255024 z"
+     id="path7-8"
+     style="fill:#353945;fill-opacity:1;stroke:none;stroke-width:1.39042115;stroke-opacity:1"
+     sodipodi:nodetypes="cccccccsc" />
+</svg>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48"
+   height="48"
+   id="svg6649"
+   inkscape:version="0.91 r"
+   sodipodi:docname="geany.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview45"
+     showgrid="true"
+     inkscape:zoom="19.333333"
+     inkscape:cx="14.741379"
+     inkscape:cy="24"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4148" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6651">
+    <linearGradient
+       x1="167.98311"
+       y1="8.50811"
+       x2="167.98311"
+       y2="54.780239"
+       id="linearGradient5414"
+       xlink:href="#linearGradient5803"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71090703,0,0,0.71090703,-91.334988,2.139763)" />
+    <linearGradient
+       id="linearGradient5803">
+      <stop
+         id="stop5805"
+         style="stop-color:#fff5ef;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5807"
+         style="stop-color:#fef8dd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="23.99999"
+       y1="4.999989"
+       x2="23.99999"
+       y2="43"
+       id="linearGradient3058"
+       xlink:href="#linearGradient3924-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4e-6,1.000006)" />
+    <linearGradient
+       id="linearGradient3924-1">
+      <stop
+         id="stop3926-3"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3928-91"
+         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         offset="0.06316455" />
+      <stop
+         id="stop3930-6"
+         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         offset="0.95056331" />
+      <stop
+         id="stop3932-6"
+         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="6.7304144"
+       cy="9.9571075"
+       r="12.671875"
+       fx="6.2001843"
+       fy="9.9571075"
+       id="radialGradient5521-1"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,9.4975523,-11.65996,0,140.93055,-79.160978)" />
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8">
+      <stop
+         id="stop3750-1-0-7-6-6-1-3-9"
+         style="stop-color:#ffe67d;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop3752-3-7-4-0-32-8-923-0"
+         style="stop-color:#fcba36;stop-opacity:1;"
+         offset="0.26238" />
+      <stop
+         id="stop3754-1-8-5-2-7-6-7-1"
+         style="stop-color:#e2810e;stop-opacity:1;"
+         offset="0.704952" />
+      <stop
+         id="stop3756-1-6-2-6-6-1-96-6"
+         style="stop-color:#ac5d1f;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3013"
+       xlink:href="#linearGradient3688-166-749"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,27.98813,-17.4)" />
+    <linearGradient
+       id="linearGradient3688-166-749">
+      <stop
+         id="stop2883"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2885"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3015"
+       xlink:href="#linearGradient3688-464-309"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,-20.01187,-104.4)" />
+    <linearGradient
+       id="linearGradient3688-464-309">
+      <stop
+         id="stop2889"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2891"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3702-501-757">
+      <stop
+         id="stop2895"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop2897"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop2899"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="25.058096"
+       y1="47.027729"
+       x2="25.058096"
+       y2="39.999443"
+       id="linearGradient6647"
+       xlink:href="#linearGradient3702-501-757"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7469"
+       y2="9.1187"
+       xlink:href="#linearGradient3494"
+       gradientUnits="userSpaceOnUse"
+       x2="20.405001"
+       gradientTransform="matrix(0.6348854,0,0,0.63361579,23.646585,-32.884281)"
+       y1="6.9878001"
+       x1="20.405001" />
+    <linearGradient
+       id="linearGradient3494">
+      <stop
+         id="stop3496"
+         style="stop-color:#282828;stop-opacity:.82353"
+         offset="0" />
+      <stop
+         id="stop3498"
+         style="stop-color:#282828;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7475"
+       y2="9.1187"
+       xlink:href="#linearGradient3494"
+       gradientUnits="userSpaceOnUse"
+       x2="20.405001"
+       gradientTransform="matrix(0.6348854,0,0,0.63361579,20.772092,-32.884281)"
+       y1="6.9878001"
+       x1="20.405001" />
+    <linearGradient
+       id="linearGradient3985">
+      <stop
+         id="stop3987"
+         style="stop-color:#282828;stop-opacity:.82353"
+         offset="0" />
+      <stop
+         id="stop3989"
+         style="stop-color:#282828;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient9547"
+       gradientUnits="userSpaceOnUse"
+       cy="-36.856998"
+       cx="21.333"
+       gradientTransform="matrix(0.77851552,-1.0956403e-7,9.1864828e-8,0.66480102,17.580509,-1.6309135)"
+       r="8">
+      <stop
+         id="stop9129"
+         style="stop-color:#f0f0f0"
+         offset="0" />
+      <stop
+         id="stop9131"
+         style="stop-color:#a9a9a9"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       cx="6.3417511"
+       cy="10.281945"
+       r="12.671875"
+       fx="5.8115211"
+       fy="10.281945"
+       id="radialGradient3402-7-1-6"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00333975,8.214435,-6.9204173,-0.00281364,164.82314,-78.845487)" />
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8-1">
+      <stop
+         offset="0"
+         style="stop-color:#fff87d;stop-opacity:1"
+         id="stop4210" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#fcef36;stop-opacity:1"
+         id="stop4212" />
+      <stop
+         offset="0.704952"
+         style="stop-color:#e2b90e;stop-opacity:1"
+         id="stop4214" />
+      <stop
+         offset="1"
+         style="stop-color:#ac7d1f;stop-opacity:1"
+         id="stop4216" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata6654">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       transform="matrix(1.1578952,0,0,0.6428571,-3.789476,16.035716)"
+       id="g3712-5"
+       style="opacity:0.6">
+      <rect
+         width="5"
+         height="7"
+         x="38"
+         y="40"
+         id="rect2801-3"
+         style="fill:url(#radialGradient3013);fill-opacity:1;stroke:none" />
+      <rect
+         width="5"
+         height="7"
+         x="-10"
+         y="-47"
+         transform="scale(-1,-1)"
+         id="rect3696-6"
+         style="fill:url(#radialGradient3015);fill-opacity:1;stroke:none" />
+      <rect
+         width="28"
+         height="7.0000005"
+         x="10"
+         y="40"
+         id="rect3700-4"
+         style="fill:url(#linearGradient6647);fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       width="39"
+       height="39"
+       rx="2"
+       ry="2"
+       x="4.5000124"
+       y="5.4999948"
+       id="rect5505-21"
+       style="color:#000000;fill:url(#radialGradient5521-1);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="37"
+       height="37"
+       rx="1"
+       ry="1"
+       x="5.5000124"
+       y="6.4999948"
+       id="rect6741"
+       style="opacity:0.5;fill:none;stroke:url(#linearGradient3058);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="39"
+       height="39"
+       rx="2"
+       ry="2"
+       x="4.5000124"
+       y="5.4999948"
+       id="rect5505-21-3-2"
+       style="opacity:0.6;color:#000000;fill:none;stroke:#b18e29;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g4196"
+       transform="translate(1.238037e-5,-0.39237575)">
+      <rect
+         id="rect8129"
+         y="16.777031"
+         x="8.4923086"
+         height="12.799833"
+         width="8.8614578"
+         style="fill:none;stroke:none;stroke-width:11.25" />
+      <path
+         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:16.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+         d="m 12.923038,16.777042 c -1.089067,0 -4.1758293,4.914283 -4.4167033,6.716117 -0.0095,0.05413 -0.01527,0.111161 -0.0138,0.177034 -0.0013,0.066 0.004,0.122087 0.0138,0.17526 0.239307,1.800455 3.3273293,6.716111 4.4167033,6.716111 1.089374,0 4.177396,-4.915656 4.416703,-6.716111 0.0095,-0.0532 0.0152,-0.109687 0.0138,-0.17526 0.0013,-0.066 -0.004,-0.123474 -0.0138,-0.177034 -0.240874,-1.801834 -3.327642,-6.716117 -4.416703,-6.716117 z"
+         id="path8889"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8884"
+         d="m 12.430731,16.284741 c -1.089061,0 -4.1758293,4.914277 -4.4167033,6.716111 -0.0095,0.05413 -0.01527,0.111161 -0.0138,0.177034 -0.0013,0.066 0.004,0.122093 0.0138,0.17526 0.239307,1.800455 3.3273293,6.716118 4.4167033,6.716118 1.089374,0 4.177396,-4.915663 4.416703,-6.716118 0.0095,-0.0532 0.0152,-0.109687 0.0138,-0.17526 0.0013,-0.066 -0.004,-0.123467 -0.0138,-0.177034 -0.240874,-1.801834 -3.327636,-6.716111 -4.416703,-6.716111 z"
+         style="opacity:1;fill:#d41a1a;fill-opacity:1;stroke:none;stroke-width:16.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
+      <rect
+         style="fill:none;stroke:none;stroke-width:11.25"
+         width="8.8614578"
+         height="12.799833"
+         x="19.815548"
+         y="20.715466"
+         id="rect8907" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8909"
+         d="m 24.246272,20.715478 c -1.089061,0 -4.175829,4.914283 -4.416703,6.716117 -0.0095,0.05413 -0.01527,0.11116 -0.0138,0.177034 -0.0013,0.066 0.004,0.122087 0.0138,0.17526 0.239307,1.800454 3.327329,6.716111 4.416703,6.716111 1.089381,0 4.177396,-4.915657 4.416703,-6.716111 0.0095,-0.0532 0.0152,-0.109687 0.0138,-0.17526 0.0013,-0.066 -0.004,-0.123474 -0.0138,-0.177034 -0.240867,-1.801834 -3.327636,-6.716117 -4.416703,-6.716117 z"
+         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:16.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
+      <path
+         style="opacity:1;fill:#d41a1a;fill-opacity:1;stroke:none;stroke-width:16.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+         d="m 23.753972,20.223171 c -1.089068,0 -4.175836,4.914283 -4.416703,6.716117 -0.0095,0.05413 -0.01527,0.11116 -0.0138,0.177034 -0.0013,0.066 0.004,0.122093 0.0138,0.17526 0.2393,1.800454 3.327329,6.716111 4.416703,6.716111 1.089374,0 4.177396,-4.915657 4.416703,-6.716111 0.0095,-0.05313 0.0152,-0.109687 0.0138,-0.17526 0.0013,-0.06593 -0.004,-0.123474 -0.0138,-0.177034 -0.240874,-1.801834 -3.327643,-6.716117 -4.416703,-6.716117 z"
+         id="path8911"
+         inkscape:connector-curvature="0" />
+      <rect
+         id="rect8919"
+         y="16.777031"
+         x="31.138542"
+         height="12.799833"
+         width="8.8614578"
+         style="fill:none;stroke:none;stroke-width:11.25" />
+      <path
+         style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:16.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+         d="m 35.569273,16.777042 c -1.089061,0 -4.17583,4.914283 -4.416703,6.716117 -0.0095,0.05413 -0.01527,0.111161 -0.0138,0.177034 -0.0013,0.066 0.0047,0.122087 0.0138,0.17526 0.239307,1.800455 3.327329,6.716111 4.416703,6.716111 1.089374,0 4.177396,-4.915656 4.416703,-6.716111 0.0095,-0.0532 0.0152,-0.109687 0.0138,-0.17526 0.0013,-0.066 -0.004,-0.123474 -0.0138,-0.177034 -0.240874,-1.801834 -3.327636,-6.716117 -4.416703,-6.716117 z"
+         id="path8921"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8923"
+         d="m 35.076972,16.284741 c -1.089067,0 -4.175836,4.914277 -4.416709,6.716111 -0.0095,0.05413 -0.01527,0.111161 -0.0138,0.177034 -0.0013,0.066 0.0047,0.122093 0.0138,0.17526 0.239307,1.800455 3.327329,6.716118 4.416709,6.716118 1.089374,0 4.177396,-4.915663 4.416703,-6.716118 0.0095,-0.0532 0.0152,-0.109687 0.0138,-0.17526 0.0013,-0.066 -0.004,-0.123467 -0.0138,-0.177034 -0.240873,-1.801834 -3.327642,-6.716111 -4.416703,-6.716111 z"
+         style="opacity:1;fill:#d41a1a;fill-opacity:1;stroke:none;stroke-width:16.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
+    </g>
+  </g>
+</svg>

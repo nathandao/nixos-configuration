@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3128"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r"
+   sodipodi:docname="draw-calligraphic.svg"
+   inkscape:export-filename="/home/andreas/projekt/tango/22/draw-freehand.png"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-ydpi="90.000000"
+   version="1.1">
+  <defs
+     id="defs3130" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="94.367397"
+     inkscape:cx="5.9880604"
+     inkscape:cy="13.333455"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     fill="#2e3436"
+     inkscape:window-width="1280"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="8.4974819,26.320122"
+       orientation="0,1"
+       id="guide5403" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3133">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:source>http://tango-project.org</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,2)">
+    <path
+       style="fill:#353945;fill-opacity:1"
+       d="m 19.64987,20.393722 c -1.047855,-0.91177 -1.859399,-1.31617 -6.047074,-3.01327 -5.6135273,-2.27496 -7.6593963,-3.53973 -8.4299453,-5.21145 -0.271981,-0.59008 -0.676115,-1.96053 -0.679578,-2.3045203 -8.02e-4,-0.0798 0.311287,-0.45583 0.693534,-0.83553 l 0.694996,-0.69036 0.166947,0.87089 c 0.309949,1.6168603 0.591996,2.3391503 1.141192,2.9224403 0.991528,1.05308 2.46406,1.95764 5.9644543,3.66388 5.224563,2.54668 5.966391,2.92241 6.606206,3.346 0.524789,0.34743 0.683766,0.4122 0.791779,0.32256 0.111014,-0.0921 -0.675825,-0.92327 -4.406062,-4.65411 l -4.541211,-4.54195 -0.341067,0.1425 c -0.497644,0.20793 -1.24689,0.12195 -1.7052453,-0.19569 -0.930816,-0.6450603 -1.081224,-1.9895203 -0.319642,-2.8572003 0.497439,-0.5667402 1.5970033,-0.7288002 2.2925283,-0.3379 0.789208,0.44356 1.169236,1.48675 0.833949,2.2892 l -0.142508,0.34107 4.541951,4.5412103 c 3.730845,3.73024 4.561979,4.51708 4.654113,4.40606 0.08964,-0.10801 0.02488,-0.26699 -0.322558,-0.79178 -0.423589,-0.63981 -0.79932,-1.38164 -3.345998,-6.6062 -1.708411,-3.5048403 -2.633183,-5.0029105 -3.708063,-6.0068205 -0.534124,-0.49886 -1.131358,-0.73205 -2.736685,-1.06853 l -1.007762,-0.21123 0.712017,-0.70726 0.712018,-0.70727 0.901358,0.2173 c 0.495745,0.11951 1.192822,0.35799 1.54906,0.52995 1.546147,0.74633 2.852203,2.75612 4.642959,7.1447205 2.205571,5.40517 2.501303,6.02693 3.381939,7.11036 0.340471,0.41888 0.6615,0.82143 0.7134,0.89458 0.0723,0.1019 -0.194409,0.4224 -1.140945,1.37104 -0.67942,0.68094 -1.278763,1.23604 -1.331875,1.23358 -0.05311,-0.002 -0.407794,-0.27528 -0.788182,-0.60627 z M 2.3527967,8.0448117 c -0.731429,-0.26003 -1.34016,-0.48307 -1.352735,-0.49565 -0.01257,-0.0126 1.89591,-1.9412802 4.241076,-4.2860102 l 4.263939,-4.26315004 0.491284,1.41151997 0.4912843,1.41151007 -3.3543883,3.35557 c -1.844914,1.8455502 -3.376034,3.3518302 -3.402488,3.3472802 -0.02645,-0.005 -0.646542,-0.22103 -1.377972,-0.48107 z"
+       id="path4820"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:#ff6e00;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4856"
+       cx="10.620518"
+       cy="8.6591244"
+       r="2" />
+  </g>
+</svg>

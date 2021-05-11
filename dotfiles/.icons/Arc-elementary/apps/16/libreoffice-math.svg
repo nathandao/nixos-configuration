@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16"
+   id="svg7357"
+   inkscape:version="0.91 r"
+   sodipodi:docname="libreoffice-math.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1834"
+     inkscape:window-height="949"
+     id="namedview28"
+     showgrid="true"
+     inkscape:zoom="20.506097"
+     inkscape:cx="8"
+     inkscape:cy="-1.753197"
+     inkscape:window-x="92"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4262" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7359">
+    <linearGradient
+       x1="23.99999"
+       y1="4.999989"
+       x2="23.99999"
+       y2="43"
+       id="linearGradient4224"
+       xlink:href="#linearGradient3924-4-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2972973,0,0,0.2972973,0.86486973,0.86486734)" />
+    <linearGradient
+       id="linearGradient3924-4-8">
+      <stop
+         id="stop3926-0-4"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3928-6-8"
+         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         offset="0.06316455" />
+      <stop
+         id="stop3930-2-1"
+         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         offset="0.95056331" />
+      <stop
+         id="stop3932-9-0"
+         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="223.21748"
+       y1="38.0354"
+       x2="223.21748"
+       y2="47.986877"
+       id="linearGradient5882-7"
+       xlink:href="#linearGradient5803-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-215,-35.000003)" />
+    <linearGradient
+       id="linearGradient5803-0">
+      <stop
+         id="stop5805-3"
+         style="stop-color:#fff5ef;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5807-4"
+         style="stop-color:#fef8dd;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8">
+      <stop
+         id="stop3750-1-0-7-6-6-1-3-9"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop3752-3-7-4-0-32-8-923-0"
+         style="stop-color:#d8d8d8;stop-opacity:1;"
+         offset="0.26238" />
+      <stop
+         id="stop3754-1-8-5-2-7-6-7-1"
+         style="stop-color:#b5b5b5;stop-opacity:1;"
+         offset="0.704952" />
+      <stop
+         id="stop3756-1-6-2-6-6-1-96-6"
+         style="stop-color:#737373;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="6.7304144"
+       cy="9.9571075"
+       r="12.671875"
+       fx="6.2001843"
+       fy="9.9571075"
+       id="radialGradient7347"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,3.1658508,-3.8866533,0,46.97684,-26.720326)" />
+    <radialGradient
+       cx="7.4956832"
+       cy="8.4497671"
+       r="19.99999"
+       fx="7.4956832"
+       fy="8.4497671"
+       id="radialGradient3841"
+       xlink:href="#linearGradient4246-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.97757094,-1.0784279,-5.5549338e-8,17.112496,-6.6025822)" />
+    <linearGradient
+       id="linearGradient4246-9">
+      <stop
+         id="stop4248-6"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4250-1"
+         style="stop-color:#dcdcdc;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="24"
+       y1="44"
+       x2="24"
+       y2="3.8990016"
+       id="linearGradient3843"
+       xlink:href="#linearGradient2490-3-9-0-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28205063,0,0,0.38456639,1.230784,-1.2295936)" />
+    <linearGradient
+       id="linearGradient2490-3-9-0-3">
+      <stop
+         id="stop2492-7-7-4-7"
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop2494-4-8-6-8"
+         style="stop-color:#5c5c5c;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="23.99999"
+       y1="5.5641499"
+       x2="23.99999"
+       y2="43"
+       id="linearGradient3988"
+       xlink:href="#linearGradient3977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24324324,0,0,0.35135133,19.721486,3.2285889)" />
+    <linearGradient
+       id="linearGradient3977">
+      <stop
+         id="stop3979"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3981"
+         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         offset="0.03626217" />
+      <stop
+         id="stop3983"
+         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         offset="0.95056331" />
+      <stop
+         id="stop3985"
+         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="7.4956832"
+       cy="8.4497671"
+       r="19.99999"
+       fx="7.4956832"
+       fy="8.4497671"
+       id="radialGradient3841-9"
+       xlink:href="#linearGradient4246-9-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.97757094,-1.0784279,-5.5549338e-8,17.112496,-6.6025822)" />
+    <linearGradient
+       id="linearGradient4246-9-9">
+      <stop
+         id="stop4248-6-0"
+         style="stop-color:#9a9a9a;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop4250-1-6"
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="24"
+       y1="44"
+       x2="24"
+       y2="3.8990016"
+       id="linearGradient3843-3"
+       xlink:href="#linearGradient2490-3-9-0-3-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28205063,0,0,0.38456639,1.230784,-1.2295936)" />
+    <linearGradient
+       id="linearGradient2490-3-9-0-3-3">
+      <stop
+         id="stop2492-7-7-4-7-3"
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop2494-4-8-6-8-6"
+         style="stop-color:#5c5c5c;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="7.4956832"
+       cy="8.4497671"
+       r="19.99999"
+       fx="7.4956832"
+       fy="8.4497671"
+       id="radialGradient3841-4"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.97757094,-1.0784279,-5.5549338e-8,17.112496,-6.6025822)" />
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-6">
+      <stop
+         id="stop3750-1-0-6"
+         style="stop-color:#ffcd7d;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3752-3-7-1"
+         style="stop-color:#fc8f36;stop-opacity:1"
+         offset="0.26238" />
+      <stop
+         id="stop3754-1-8-1"
+         style="stop-color:#e23a0e;stop-opacity:1"
+         offset="0.704952" />
+      <stop
+         id="stop3756-1-6-8"
+         style="stop-color:#ac441f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="24"
+       y1="44"
+       x2="24"
+       y2="3.8990016"
+       id="linearGradient3843-8"
+       xlink:href="#linearGradient2490-3-9-0-3-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28205063,0,0,0.38456639,1.230784,-1.2295936)" />
+    <linearGradient
+       id="linearGradient2490-3-9-0-3-4">
+      <stop
+         id="stop2492-7-7-4-7-5"
+         style="stop-color:#7e3419;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop2494-4-8-6-8-4"
+         style="stop-color:#bb7627;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="7.4956832"
+       cy="8.4497671"
+       r="19.99999"
+       fx="7.4956832"
+       fy="8.4497671"
+       id="radialGradient3841-8"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.97757094,-1.0784279,-5.5549338e-8,17.112496,-6.6025822)" />
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3">
+      <stop
+         id="stop3750-1-0"
+         style="stop-color:#90dbec;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3752-3-7"
+         style="stop-color:#55c1ec;stop-opacity:1"
+         offset="0.26238" />
+      <stop
+         id="stop3754-1-8"
+         style="stop-color:#3689e6;stop-opacity:1"
+         offset="0.704952" />
+      <stop
+         id="stop3756-1-6"
+         style="stop-color:#2b63a0;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="24"
+       y1="44"
+       x2="24"
+       y2="3.8990016"
+       id="linearGradient3843-5"
+       xlink:href="#linearGradient2490-3-9-0-3-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28205063,0,0,0.38456639,1.230784,-1.2295936)" />
+    <linearGradient
+       id="linearGradient2490-3-9-0-3-2">
+      <stop
+         id="stop2492-7-7-4-7-4"
+         style="stop-color:#10447d;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop2494-4-8-6-8-9"
+         style="stop-color:#328aeb;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="23.99999"
+       y1="5.5641499"
+       x2="23.99999"
+       y2="43"
+       id="linearGradient3988-6"
+       xlink:href="#linearGradient3977-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24324324,0,0,0.35135133,18.908078,-0.08116511)" />
+    <linearGradient
+       id="linearGradient3977-9">
+      <stop
+         id="stop3979-5"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3981-7"
+         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         offset="0.03626217" />
+      <stop
+         id="stop3983-8"
+         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         offset="0.95056331" />
+      <stop
+         id="stop3985-6"
+         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="19.99999"
+       fy="8.4497671"
+       fx="7.4956832"
+       cy="8.4497671"
+       cx="7.4956832"
+       gradientTransform="matrix(0,0.97757094,-1.0784279,-5.5549338e-8,33.85841,-6.2513193)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3042"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="3.8990016"
+       x2="24"
+       y1="44"
+       x1="24"
+       gradientTransform="matrix(0.28205063,0,0,0.38456639,17.976698,-0.87833067)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3044"
+       xlink:href="#linearGradient2490-3-9-0-3-2"
+       inkscape:collect="always" />
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3038-6"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,27.98813,-17.4)" />
+    <linearGradient
+       id="linearGradient3688-166-749-4">
+      <stop
+         id="stop2883-1"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2885-5"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3040-2"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,-20.01187,-104.4)" />
+    <linearGradient
+       id="linearGradient3702-501-757-0">
+      <stop
+         id="stop2895-2"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop2897-9"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop2899-8"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14740">
+      <stop
+         offset="0"
+         style="stop-color:#f278ff;stop-opacity:1"
+         id="stop14742" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#e34fd5;stop-opacity:1"
+         id="stop14744" />
+      <stop
+         offset="0.66093999"
+         style="stop-color:#9926c6;stop-opacity:1"
+         id="stop14746" />
+      <stop
+         offset="1"
+         style="stop-color:#520b69;stop-opacity:1"
+         id="stop14748" />
+    </linearGradient>
+    <mask
+       id="mask32">
+      <g
+         id="g2190"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface65"
+           id="use2192"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="alpha"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix339" />
+    </filter>
+    <mask
+       id="mask39">
+      <g
+         id="g4274"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface80"
+           id="use4276"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4428"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4430" />
+    </filter>
+    <mask
+       id="mask40">
+      <g
+         id="g4312"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface83"
+           id="use4314"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4435"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4437" />
+    </filter>
+    <mask
+       id="mask41">
+      <g
+         id="g4350"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface86"
+           id="use4352"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4442"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4444" />
+    </filter>
+    <mask
+       id="mask45">
+      <g
+         id="g4862"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface94"
+           id="use4864"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4449"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4451" />
+    </filter>
+    <mask
+       id="mask46">
+      <g
+         id="g4900"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface97"
+           id="use4902"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4456"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4458" />
+    </filter>
+    <mask
+       id="mask48">
+      <g
+         id="g5322"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface101"
+           id="use5324"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4463"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4465" />
+    </filter>
+    <mask
+       id="mask49">
+      <g
+         id="g5360"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface104"
+           id="use5362"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4470"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4472" />
+    </filter>
+    <mask
+       id="mask51">
+      <g
+         id="g5782"
+         style="filter:url(#alpha)">
+        <use
+           xlink:href="#surface108"
+           id="use5784"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4477"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4479" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2490-3-9-0-3"
+       id="radialGradient4386"
+       cx="7.0172758"
+       cy="-6.1884003"
+       fx="7.0172758"
+       fy="-6.1884003"
+       r="6.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(8.4400794e-8,5.076923,-5.4752454,8.4390076e-8,-25.883011,-38.626168)" />
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3038-6-2"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,27.98813,-17.4)" />
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3040-2-2"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,-20.01187,-104.4)" />
+    <linearGradient
+       id="linearGradient4223">
+      <stop
+         offset="0"
+         style="stop-color:#cdf87e;stop-opacity:1"
+         id="stop4225" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#a2e34f;stop-opacity:1"
+         id="stop4227" />
+      <stop
+         offset="0.66093999"
+         style="stop-color:#68b723;stop-opacity:1"
+         id="stop4229" />
+      <stop
+         offset="1"
+         style="stop-color:#1d7e0d;stop-opacity:1"
+         id="stop4231" />
+    </linearGradient>
+    <mask
+       id="mask32-5">
+      <g
+         id="g2190-3"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface65"
+           id="use2192-7"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="alpha-9"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix339-4" />
+    </filter>
+    <mask
+       id="mask39-3">
+      <g
+         id="g4274-0"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface80"
+           id="use4276-2"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4448"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4450" />
+    </filter>
+    <mask
+       id="mask40-7">
+      <g
+         id="g4312-2"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface83"
+           id="use4314-7"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4455"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4457" />
+    </filter>
+    <mask
+       id="mask41-3">
+      <g
+         id="g4350-0"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface86"
+           id="use4352-1"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4462"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4464" />
+    </filter>
+    <mask
+       id="mask45-9">
+      <g
+         id="g4862-2"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface94"
+           id="use4864-3"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4469"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4471" />
+    </filter>
+    <mask
+       id="mask46-9">
+      <g
+         id="g4900-9"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface97"
+           id="use4902-6"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4476"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4478" />
+    </filter>
+    <mask
+       id="mask48-2">
+      <g
+         id="g5322-7"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface101"
+           id="use5324-3"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4483"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4485" />
+    </filter>
+    <mask
+       id="mask49-6">
+      <g
+         id="g5360-9"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface104"
+           id="use5362-0"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4490"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4492" />
+    </filter>
+    <mask
+       id="mask51-8">
+      <g
+         id="g5782-4"
+         style="filter:url(#alpha-9)">
+        <use
+           xlink:href="#surface108"
+           id="use5784-7"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4497"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4499" />
+    </filter>
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3038-6-8"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,27.98813,-17.4)" />
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3040-2-1"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,-20.01187,-104.4)" />
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3">
+      <stop
+         id="stop3750-1-0-7-1"
+         style="stop-color:#ffee7d;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop3752-3-7-4-7"
+         style="stop-color:#fcd936;stop-opacity:1;"
+         offset="0.26238" />
+      <stop
+         id="stop3754-1-8-5"
+         style="stop-color:#e2880e;stop-opacity:1;"
+         offset="0.704952" />
+      <stop
+         id="stop3756-1-6-2-5"
+         style="stop-color:#ac871f;stop-opacity:1;"
+         offset="1" />
+    </linearGradient>
+    <mask
+       id="mask32-50">
+      <g
+         id="g2190-4"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface65"
+           id="use2192-1"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="alpha-3"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix339-3" />
+    </filter>
+    <mask
+       id="mask39-4">
+      <g
+         id="g4274-1"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface80"
+           id="use4276-5"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4450"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4452" />
+    </filter>
+    <mask
+       id="mask40-5">
+      <g
+         id="g4312-9"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface83"
+           id="use4314-1"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4457"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4459" />
+    </filter>
+    <mask
+       id="mask41-4">
+      <g
+         id="g4350-7"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface86"
+           id="use4352-6"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4464"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4466" />
+    </filter>
+    <mask
+       id="mask45-97">
+      <g
+         id="g4862-8"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface94"
+           id="use4864-5"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4471"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4473" />
+    </filter>
+    <mask
+       id="mask46-2">
+      <g
+         id="g4900-8"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface97"
+           id="use4902-2"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4478"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4480" />
+    </filter>
+    <mask
+       id="mask48-3">
+      <g
+         id="g5322-6"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface101"
+           id="use5324-2"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4485"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4487" />
+    </filter>
+    <mask
+       id="mask49-1">
+      <g
+         id="g5360-6"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface104"
+           id="use5362-3"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4492"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4494" />
+    </filter>
+    <mask
+       id="mask51-3">
+      <g
+         id="g5782-8"
+         style="filter:url(#alpha-3)">
+        <use
+           xlink:href="#surface108"
+           id="use5784-8"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4499"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4501" />
+    </filter>
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3038-6-4"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,27.98813,-17.4)" />
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient3040-2-3"
+       xlink:href="#linearGradient3688-166-749-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,-20.01187,-104.4)" />
+    <mask
+       id="mask32-8">
+      <g
+         id="g2190-9"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface65"
+           id="use2192-3"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="alpha-1"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix339-6" />
+    </filter>
+    <mask
+       id="mask39-9">
+      <g
+         id="g4274-5"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface80"
+           id="use4276-6"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4451"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4453" />
+    </filter>
+    <mask
+       id="mask40-73">
+      <g
+         id="g4312-4"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface83"
+           id="use4314-4"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4458"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4460" />
+    </filter>
+    <mask
+       id="mask41-30">
+      <g
+         id="g4350-5"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface86"
+           id="use4352-2"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4465"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4467" />
+    </filter>
+    <mask
+       id="mask45-5">
+      <g
+         id="g4862-0"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface94"
+           id="use4864-51"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4472"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4474" />
+    </filter>
+    <mask
+       id="mask46-7">
+      <g
+         id="g4900-5"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface97"
+           id="use4902-5"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4479"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4481" />
+    </filter>
+    <mask
+       id="mask48-1">
+      <g
+         id="g5322-78"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface101"
+           id="use5324-6"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4486"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4488" />
+    </filter>
+    <mask
+       id="mask49-4">
+      <g
+         id="g5360-5"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface104"
+           id="use5362-2"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4493"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4495" />
+    </filter>
+    <mask
+       id="mask51-5">
+      <g
+         id="g5782-3"
+         style="filter:url(#alpha-1)">
+        <use
+           xlink:href="#surface108"
+           id="use5784-1"
+           x="0"
+           y="0"
+           width="166.39929"
+           height="204.80005" />
+      </g>
+    </mask>
+    <filter
+       id="filter4500"
+       filterUnits="objectBoundingBox"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="matrix"
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix4502" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7362">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <path
+       id="path4252"
+       d="M 2.5 1.5 C 1.946 1.5 1.5 1.946 1.5 2.5 L 1.5 13.5 C 1.5 14.054 1.946 14.5 2.5 14.5 L 13.5 14.5 C 14.054 14.5 14.5 14.054 14.5 13.5 L 14.5 6.8828125 L 9.1171875 1.5 L 2.5 1.5 z "
+       style="color:#000000;fill:url(#radialGradient4386);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1" />
+    <path
+       style="opacity:0.246;fill:none;stroke:url(#linearGradient4224);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.5,2.5 0,11 11,0 0.118402,-6.1061872 -4.7930595,-4.7870275 z"
+       id="rect6741-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4258"
+       d="m 11.499929,1.5000707 3,0 0,3 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;opacity:0.4"
+       d="M 2.5 1.5 C 1.946 1.5 1.5 1.946 1.5 2.5 L 1.5 13.5 C 1.5 14.054 1.946 14.5 2.5 14.5 L 13.5 14.5 C 14.054 14.5 14.5 14.054 14.5 13.5 L 14.5 6.8828125 L 9.1171875 1.5 L 2.5 1.5 z "
+       id="rect3430" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface66"
+       mask="url(#mask32)"
+       id="use5918"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface81"
+       mask="url(#mask39)"
+       id="use5938"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface84"
+       mask="url(#mask40)"
+       id="use5940"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface87"
+       mask="url(#mask41)"
+       id="use5942"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface95"
+       mask="url(#mask45)"
+       id="use5946"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface98"
+       mask="url(#mask46)"
+       id="use5948"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface102"
+       mask="url(#mask48)"
+       id="use5950"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface105"
+       mask="url(#mask49)"
+       id="use5952"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-156.37547,-22.108994)"
+       xlink:href="#surface109"
+       mask="url(#mask51)"
+       id="use5954"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface66"
+       mask="url(#mask32-5)"
+       id="use5918-5"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface81"
+       mask="url(#mask39-3)"
+       id="use5938-5"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface84"
+       mask="url(#mask40-7)"
+       id="use5940-5"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface87"
+       mask="url(#mask41-3)"
+       id="use5942-0"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface95"
+       mask="url(#mask45-9)"
+       id="use5946-2"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface98"
+       mask="url(#mask46-9)"
+       id="use5948-4"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface102"
+       mask="url(#mask48-2)"
+       id="use5950-4"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface105"
+       mask="url(#mask49-6)"
+       id="use5952-8"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-163.74452,-19.32954)"
+       xlink:href="#surface109"
+       mask="url(#mask51-8)"
+       id="use5954-6"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface66"
+       mask="url(#mask32-50)"
+       id="use5918-8"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface81"
+       mask="url(#mask39-4)"
+       id="use5938-8"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface84"
+       mask="url(#mask40-5)"
+       id="use5940-50"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface87"
+       mask="url(#mask41-4)"
+       id="use5942-3"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface95"
+       mask="url(#mask45-97)"
+       id="use5946-8"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface98"
+       mask="url(#mask46-2)"
+       id="use5948-6"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface102"
+       mask="url(#mask48-3)"
+       id="use5950-5"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface105"
+       mask="url(#mask49-1)"
+       id="use5952-5"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-176.74452,-23.32954)"
+       xlink:href="#surface109"
+       mask="url(#mask51-3)"
+       id="use5954-3"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface66"
+       mask="url(#mask32-8)"
+       id="use5918-86"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface81"
+       mask="url(#mask39-9)"
+       id="use5938-9"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface84"
+       mask="url(#mask40-73)"
+       id="use5940-7"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface87"
+       mask="url(#mask41-30)"
+       id="use5942-1"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface95"
+       mask="url(#mask45-5)"
+       id="use5946-5"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface98"
+       mask="url(#mask46-7)"
+       id="use5948-7"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface102"
+       mask="url(#mask48-1)"
+       id="use5950-52"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface105"
+       mask="url(#mask49-4)"
+       id="use5952-1"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+    <use
+       transform="matrix(0.28359625,0,0,0.28359628,-187.74452,-22.32954)"
+       xlink:href="#surface109"
+       mask="url(#mask51-5)"
+       id="use5954-0"
+       x="0"
+       y="0"
+       width="166.39929"
+       height="204.80005" />
+  </g>
+</svg>

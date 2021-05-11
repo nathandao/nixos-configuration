@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg11272"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r"
+   version="1.0"
+   sodipodi:docname="align-vertical-center.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/andreas/project/inkscape/22x22/actions/align-horisontal-left.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:modified="true">
+  <defs
+     id="defs11274" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="29.25"
+     inkscape:cx="12"
+     inkscape:cy="9.2649573"
+     inkscape:current-layer="g4570"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     width="22px"
+     height="22px"
+     inkscape:window-width="1444"
+     inkscape:window-height="842"
+     inkscape:window-x="279"
+     inkscape:window-y="273"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4146" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11277">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,2)">
+    <g
+       style="display:inline"
+       id="g4065"
+       transform="matrix(0,-1,1,0,8.9287758e-5,51.99998)"
+       inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g4152"
+         transform="matrix(0,1,1,0,29.000078,-30.000071)">
+        <g
+           id="g4303"
+           transform="matrix(0,-1,1,0,29.00008,55.999889)">
+          <g
+             id="g4387"
+             transform="matrix(0,-1,1,0,30.000076,55.999889)">
+            <g
+               id="g4570">
+              <g
+                 id="g3883"
+                 transform="matrix(0.85714286,0,0,0.91666667,-99.285728,-427.8752)"
+                 style="display:inline;fill:#f3f3f3;fill-opacity:1;stroke:#888a85"
+                 inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
+                 inkscape:export-xdpi="90"
+                 inkscape:export-ydpi="90">
+                <rect
+                   transform="matrix(0,1,1,0,0,0)"
+                   y="169.5"
+                   x="475.50012"
+                   height="7"
+                   width="12"
+                   id="rect3885"
+                   style="fill:#353945;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              </g>
+              <g
+                 inkscape:export-ydpi="90"
+                 inkscape:export-xdpi="90"
+                 inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
+                 style="display:inline;fill:#f3f3f3;fill-opacity:1;stroke:#888a85"
+                 transform="matrix(0.85714286,0,0,1.3333333,-111.28573,-629.00024)"
+                 id="g4148">
+                <rect
+                   style="fill:#353945;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   id="rect4150"
+                   width="12"
+                   height="7"
+                   x="475.50012"
+                   y="169.5"
+                   transform="matrix(0,1,1,0,0,0)" />
+              </g>
+              <g
+                 id="g2992"
+                 transform="matrix(-0.86956176,0,0,1,215.17316,-477.50009)"
+                 inkscape:export-filename="/home/lapo/Desktop/align-distribute.tar.gz_FILES/align-stuff.png"
+                 inkscape:export-xdpi="90"
+                 inkscape:export-ydpi="90"
+                 style="display:inline;fill:#f57900;fill-opacity:1;stroke:none">
+                <rect
+                   y="489.5"
+                   x="186.49989"
+                   height="1.9999999"
+                   width="3.0000916"
+                   id="rect2994"
+                   style="fill:#f57900;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                <rect
+                   y="489.5"
+                   x="191.49989"
+                   height="1.9999999"
+                   width="3.0000916"
+                   id="rect2996"
+                   style="fill:#f57900;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                <rect
+                   y="489.5"
+                   x="196.49989"
+                   height="1.9999999"
+                   width="3.0000916"
+                   id="rect2998"
+                   style="fill:#f57900;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                <rect
+                   y="489.5"
+                   x="201.49989"
+                   height="1.9999999"
+                   width="3.0000916"
+                   id="rect3000"
+                   style="fill:#f57900;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                <rect
+                   transform="scale(-1,-1)"
+                   y="-491.5"
+                   x="-209.49998"
+                   height="1.9999999"
+                   width="3.0000916"
+                   id="rect3002"
+                   style="fill:#f57900;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

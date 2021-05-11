@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   version="1.1"
+   id="svg7384"
+   height="16"
+   inkscape:version="0.91 r"
+   sodipodi:docname="mail-reply-sender-rtl.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="767"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="75"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       id="filter7554"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+    <filter
+       id="filter7554-7"
+       color-interpolation-filters="sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-493.00039,-148)"
+     style="display:inline;fill:#353945;fill-opacity:1"
+     label="status"
+     id="layer9" />
+  <g
+     transform="translate(-493.00039,-148)"
+     style="display:inline;fill:#353945;fill-opacity:1"
+     id="layer10" />
+  <g
+     transform="translate(-493.00039,-148)"
+     style="display:inline;fill:#353945;fill-opacity:1"
+     id="layer13" />
+  <g
+     transform="translate(-493.00039,-148)"
+     id="layer14"
+     style="fill:#353945;fill-opacity:1" />
+  <g
+     transform="translate(-493.00039,-148)"
+     style="display:inline;fill:#353945;fill-opacity:1"
+     id="layer15" />
+  <g
+     transform="translate(-493.00039,-148)"
+     style="display:inline;fill:#353945;fill-opacity:1"
+     id="g71291" />
+  <g
+     transform="matrix(-1,0,0,1,509.00039,-148)"
+     style="display:inline;fill:#353945;fill-opacity:1"
+     id="layer12">
+    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#353945;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       id="path29078"
+       d="m 502.89253,162.81532 c 0.64816,-0.27979 1.21316,-0.60174 1.6997,-0.95554 4.73883,-3.44594 2.22246,-9.91248 -3.59164,-9.85978 l 0,-3.07404 -7,5.01804 7,5 0,-3 c 3.76636,-0.14511 5.32526,3.87203 2.07799,6.17962 -0.28046,0.1993 -0.59818,0.38853 -0.95507,0.56438 0,0 -5.87652,2.5681 0.76902,0.12732 z" />
+  </g>
+</svg>
